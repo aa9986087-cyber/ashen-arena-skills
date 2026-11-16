@@ -9,6 +9,7 @@
 | `skills/ashen-arena-user-rules/SKILL.md` | المهارة الدائمة: قواعد التجربة، الضربة، الصوت، الصدارة، والأمان |
 | `dist/ashen-arena-user-rules.skill` | حزمة جاهزة لإضافتها من **My Skills** في Manus |
 | `ASHEN-ARENA-HANDOFF.md` | سياق المشروع الكامل وقراراته وخطة العمل القادمة |
+| `docs/MOVEMENT-AND-ATTACK-ANIMATION.md` | طريقة الحركة، فصل الذراعين عن الرجلين، توقيت الضربة، وخطة حركة الأعداء |
 | `PROMPT.md` | أول رسالة جاهزة للحساب الثاني |
 
 ## الاستيراد في حساب Manus آخر

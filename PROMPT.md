@@ -2,6 +2,8 @@
 
 انسخ النص التالي بعد رفع `ASHEN-ARENA-HANDOFF.md` وإضافة المهارة:
 
+> للفهم المباشر من GitHub، استخدم `GITHUB-PROMPT.md`.
+
 ```text
 اقرأ ملف ASHEN-ARENA-HANDOFF.md كاملًا قبل أي إجراء، وطبّق مهارة ashen-arena-user-rules.
 هذا مشروع Ashen Arena. لا ترفع أي تعديل للإنتاج قبل موافقتي، وكل تغيير سلّمه كنسخة تجربة يدوية على /test/.
